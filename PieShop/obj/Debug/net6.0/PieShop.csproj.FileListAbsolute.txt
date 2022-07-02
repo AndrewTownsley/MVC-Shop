@@ -1,0 +1,8 @@
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.AssemblyInfo.cs
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.RazorAssemblyInfo.cache
+C:\Users\acer\OneDrive\C#\PieShop\PieShop\obj\Debug\net6.0\PieShop.RazorAssemblyInfo.cs
